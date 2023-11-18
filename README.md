@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @palacinka1
+- 👀 I’m interested in Frontend Coding
+- 🌱 I’m currently learning PHP and SQL
+- 💞️ I’m looking to collaborate on nothing!
